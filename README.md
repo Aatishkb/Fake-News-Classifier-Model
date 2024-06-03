@@ -11,4 +11,4 @@ This repository contains a machine learning project for detecting fake news usin
 - **Model Evaluation**: Evaluate the trained model using accuracy, confusion matrix, and classification report.
 - **Prediction**: Predict whether a new piece of news is fake or real based on the trained model.
 
-# Thank Yoy!
+# Thank You!
